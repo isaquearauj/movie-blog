@@ -1,6 +1,6 @@
 # Movie Blog
 
-🔗 **Acesse aqui:** [portfolio](https://movieblog0.netlify.app/)
+🔗 **Acesse aqui:** [movie-blog](https://movieblog0.netlify.app/)
 
 ---
 
