@@ -34,5 +34,5 @@ Abaixo está a organização dos arquivos e pastas do projeto:
 
 ## 📬 Contato
 
-📧 **Email:** [isaquej11@gmail.com](mailto\:isaquej11@gmail.com)\
+📧 **Email:** [isaqueaj11@gmail.com](mailto\:isaqueaj11@gmail.com)\
 💼 **LinkedIn:** [Isaque Araujo](https://linkedin.com/in/isaquearauj)
