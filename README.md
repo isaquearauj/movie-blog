@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-MovieBlog é um site pessoal onde compartilho meus filmes e séries favoritos. Desenvolvido para testar e aprimorar minhas habilidades em desenvolvimento front-end, o projeto apresenta uma interface moderna, intuitiva e totalmente responsiva, proporcionando uma experiência agradável em qualquer dispositivo.
+Movie Blog é um site pessoal onde compartilho meus filmes e séries favoritos. Desenvolvido para testar e aprimorar minhas habilidades em desenvolvimento front-end, o projeto apresenta uma interface moderna, intuitiva e totalmente responsiva, proporcionando uma experiência agradável em qualquer dispositivo.
 
 ---
 
